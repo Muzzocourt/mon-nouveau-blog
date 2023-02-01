@@ -1,12 +1,12 @@
 h1 a, h2 a {
-    color: #C25100;
+    color: #de1f33;
+	font-family: 'Lobster';
 }
 
 body {
     padding-left: 15px;
 	font-family: 'Lobster';
 }
-
 .page-header {
     background-color: #C25100;
     margin-top: 0;
@@ -68,12 +68,12 @@ h4 {
 
 .btn-default,
 .btn-default:visited {
-    color: #C25100;
+    color: #de1f33;
     background: none;
-    border-color: #C25100;
+    border-color: #de1f33;
 }
 
 .btn-default:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #de1f33;
 }
